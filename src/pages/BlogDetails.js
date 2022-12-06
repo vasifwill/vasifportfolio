@@ -20,7 +20,7 @@ function BlogDetails(props) {
 
   const disqusShortname = "vasif.will"; //found in your Disqus.com dashboard
   const disqusConfig = {
-    url: "https://jthemes.net/themes/react/bolby", //Homepage link of this site.
+    url: "https://vasifwill.github.io/vasifportfolio/", //Homepage link of this site.
     identifier: blogId,
     title: blogFile,
   };
